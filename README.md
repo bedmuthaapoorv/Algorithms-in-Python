@@ -10,3 +10,5 @@ This Repository is updated weekly.
 1.[Linear Search](https://github.com/bedmuthaapoorv/Algorithms-in-Python/blob/main/LinearSearch.py)
 
 2.[Insertion sort](https://github.com/bedmuthaapoorv/Algorithms-in-Python/blob/main/InsertionSort.py)
+
+3.[Selection sort](https://github.com/bedmuthaapoorv/Algorithms-in-Python/blob/main/SelectionSort.py)
