@@ -8,4 +8,5 @@ This Repository is updated weekly.
 ## List Of Algorithms
 
 1.[Linear Search](https://github.com/bedmuthaapoorv/Algorithms-in-Python/blob/main/LinearSearch.py)
+
 2.[Insertion sort](https://github.com/bedmuthaapoorv/Algorithms-in-Python/blob/main/InsertionSort.py)
