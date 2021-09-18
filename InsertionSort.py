@@ -1,11 +1,14 @@
 # Insertion Sort
 
 '''
-Insertion sort is a basic sorting algorithm that sorts a given array by putting each element of array in a different array in a sorted order.
+Insertion sort is a basic sorting algorithm that sorts a given array by putting each element of array in a sub-array in a sorted order.
 Worst-case time Complexity : O(n^2)
 
 sample execution:
 
+Enter elements of array to be sorted separated by commas: 
+1,4,2,3,5
+sorted array is:['1', '2', '3', '4', '5']
 
 '''
 
